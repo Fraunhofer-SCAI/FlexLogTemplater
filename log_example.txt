@@ -1,0 +1,9 @@
+Directory /home/user_x/dir_a was successfully created
+Directory /home/user_y/dir_b was successfully created
+Login of user A, status: successful
+Login of user B, status: failed
+Login of user C, status: failed
+User A logged on successfully
+User B logged on successfully
+User C saved state successfully
+User D saved state successfully
